@@ -1,94 +1,107 @@
-# React + Vite
-Library Dashboard
+# Library Dashboard
+__________________________________________________________________________________
+
 Library Dashboard is a web application built using React.js, Formik Validation, and React Router. It allows you to manage authors and books in your dashboard with ease.
 
-Features:
 
-Click on an authors list to view author details.
+__________________________________________________________________________________
 
-
-View a list of author names.
+# Features:
 
 
-Click on a books list to view book details.
+1.Click on an authors list to view author details.
 
 
-View a list of book names.
+2.View a list of author names.
 
 
-Add new authors.
+3.Click on a books list to view book details.
 
 
-Add new books.
+4.View a list of book names.
 
 
-Edit existing authors.
+5.Add new authors.
 
 
-Edit existing books.
+6.Add new books.
 
 
-Click to delete existing author details.
+7.Edit existing authors.
 
 
-Click to delete existing book details.
+8.Edit existing books.
 
 
-Technologies Used
+9.Click to delete existing author details.
 
 
-React.js for building the frontend.
+10.Click to delete existing book details.
 
 
-React Router for routing.
+# Technologies Used
 
 
-Formik and Yup for form handling and validation.
+* React.js for building the frontend.
 
 
-
-Getting Started:
-
-
-Prerequisites:
+* React Router for routing.
 
 
-Make sure you have the following installed on your machine:
+* Formik and Yup for form handling and validation.
+
+_____________________________________________________________________________________
+
+# Getting Started:
 
 
-Node.js
-npm
+# Prerequisite:
 
-Installation
-
-Clone the repository:
+# Make sure you have the following installed on your machine:
 
 
-git clone [repository_url]
+* Node.js
+* npm
+____________________________________
 
-Open a terminal and navigate to the project folder:
-
-
-
-cd [folder_name]
-
-Install dependencies:
+# Installation
+____________________________________________________________________________________________
+# Clone the repository:
 
 
+* git clone [repository_url]
+________________________________________
 
-npm install
 
-Start the development server:
+# Open a terminal and navigate to the project folder:
+
+_______________________________________________________________________________________________
 
 
 
-npm run dev
+* cd [folder_name]
+
+_______________________________
+
+# Install dependencies:
+
+__________________________________________________________________________________________________
+
+* npm install
+_______________________________
 
 
+# Start the development server:
 
-Once the server is running, open your web browser and navigate to the provided link.
+__________________________________________________________________________________________________
+
+* npm run dev
 
 
+_____________________________
 
+# Once the server is running, open your web browser and navigate to the provided link.
 
-Ctrl+Click the link to open the website.
+__________________________________________________________________________________________________
+
+* Ctrl+Click the link to open the website.
